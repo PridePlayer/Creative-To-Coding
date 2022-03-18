@@ -15,6 +15,8 @@
 
 ### 我有好的创意
 
-前往[Discussions](https://github.com/PridePlayer/Creative-To-Coding/discussions)，发一篇新帖子，选择分类为“想法创意”。你需要写清楚你的软件的名字、描述，它具体需要实现的功能。如果你不会写，请参考需求文档的写作方法。
+前往[Discussions](https://github.com/PridePlayer/Creative-To-Coding/discussions)，发一篇新帖子，选择分类为“想法创意”。你需要写清楚你的软件的名字、描述，它具体需要实现的功能。如果你不会写，请参考[软件需求文档](https://blog.csdn.net/qq_43620423/article/details/113102241)的写作方法。
+
+切记：你的想法应该被你自己先审视一遍，确定想法的具体价值，并且有简洁清晰和易读的需求文档。不要笼笼统统让人不知道你在讲什么。
 
 如果你已经有了UI原型设计稿，可以作为附件上传，并表明使用的组件或字体。
